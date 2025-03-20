@@ -1,13 +1,13 @@
-# 精选的优秀模型上下文协议 (MCP) 服务端和客户端列表 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 精选 (MCP) 服务端和客户端列表 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![MCP Clients](https://img.shields.io/badge/MCP客户端-Click-orange)](mcp-clients.md)
 [![MCP Servers](https://img.shields.io/badge/MCP服务端-Click-yellow)](mcp-servers.md)
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://discord.gg/e7sXgrSP)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
-[精选的优秀模型上下文协议 (MCP) 服务端列表](mcp-servers.md)
+[精选 (MCP) 服务端列表](mcp-servers.md)
 
-[精选的优秀模型上下文协议 (MCP) 客户端列表](mcp-clients.md)
+[精选 (MCP) 客户端列表](mcp-clients.md)
 
 - [什么是 MCP？](#什么是MCP？)
 - [教程](#教程)
@@ -33,7 +33,7 @@
 
 - [Github 讨论](https://github.com/orgs/modelcontextprotocol/discussions)
 - [r/mcp Reddit](https://www.reddit.com/r/mcp)
-- [Discord 服务](https://glama.ai/mcp/discord)
+- [Discord 服务](https://discord.gg/e7sXgrSP)
 
 ## 说明
 

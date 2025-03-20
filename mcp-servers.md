@@ -285,7 +285,6 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [hexitex/MCP-Backup-Server](https://github.com/hexitex/MCP-Backup-Server) <img src="https://cdn.simpleicons.org/files/4CAF50" height="14"/> - 为 AI 代理和代码编辑工具提供文件/文件夹备份与恢复功能
 - [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)<sup><sup>1</sup></sup> <img src="https://cdn.simpleicons.org/files/4A90E2" height="14"/> 📇 🏠 - 直接访问本地文件系统。
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) <sup><sup>2</sup></sup> <img src="https://cdn.simpleicons.org/files/4A90E2" height="14"/> 🏎️ 🏠 - 用于本地文件系统访问的 Golang 实现。
-
 - [hmk/box-mcp-server](https://github.com/hmk/box-mcp-server) 📇 ☁️ - Box 集成，支持文件列表、阅读和搜索功能
 - [mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search) <img src="https://cdn.simpleicons.org/files/4CAF50" height="14"/> 🐍 🏠 🪟 - 使用 Everything SDK 实现的快速 Windows 文件搜索
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) <img src="https://cdn.simpleicons.org/files/4CAF50" height="14"/> 🐍 🏠 - 通过 MCP 或剪贴板与 LLM 共享代码上下文

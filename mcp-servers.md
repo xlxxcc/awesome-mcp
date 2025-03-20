@@ -1,4 +1,4 @@
-# 精选的优秀模型上下文协议 (MCP) 服务器列表 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 精选 (MCP) 服务器列表 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![MCP Clients](https://img.shields.io/badge/MCP客户端-Click-orange)](mcp-clients.md)
 [![MCP Servers](https://img.shields.io/badge/MCP服务端-Click-yellow)](mcp-servers.md)

@@ -9,7 +9,7 @@
 
 [README.md](README.md)
 
-[精选的优秀模型上下文协议 (MCP) 客户端列表](mcp-clients.md)
+[精选 (MCP) 客户端列表](mcp-clients.md)
 
 [官方 MCP 服务器列表](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#%EF%B8%8F-official-integrations)
 

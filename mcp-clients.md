@@ -7,7 +7,7 @@
 
 [README.md](README.md)
 
-[精选的优秀模型上下文协议 (MCP) 服务端列表](mcp-servers.md)
+[精选 (MCP) 服务端列表](mcp-servers.md)
 
 ## Clients
 

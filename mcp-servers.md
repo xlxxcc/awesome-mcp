@@ -102,6 +102,16 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 与工作流自动化平台的集成使人工智能模型能够执行工作流，并将数据检索回其系统。
 
 - [integromat/make-mcp-server ](https://github.com/integromat/make-mcp-server) <img src="https://www.make.com/favicon.ico " height="14"/> <sup><sup>⭐</sup></sup> - 将 Make 场景转换为人工智能助手可调用的工具。
+- [automatikstudio/adcraft-mcp](https://github.com/automatikstudio/adcraft-mcp) 🐍 ☁️ - AI 驱动的广告和营销内容创建工具
+- [automatikstudio/brandsnap-mcp](https://github.com/automatikstudio/brandsnap-mcp) 🐍 ☁️ - 品牌分析和竞争情报营销策略工具
+- [automatikstudio/copyforge-mcp](https://github.com/automatikstudio/copyforge-mcp) 🐍 ☁️ - 专业营销文案和内容生成工具
+- [automatikstudio/hirescript-mcp](https://github.com/automatikstudio/hirescript-mcp) 🐍 ☁️ - 自动化招聘内容和职位描述生成工具
+- [automatikstudio/legalforge-mcp](https://github.com/automatikstudio/legalforge-mcp) 🐍 ☁️ - 法律文档创建和合同起草助手
+- [automatikstudio/pitchdeck-mcp](https://github.com/automatikstudio/pitchdeck-mcp) 🐍 ☁️ - 专业路演演示和商业计划书创建工具
+- [automatikstudio/proofbase-mcp](https://github.com/automatikstudio/proofbase-mcp) 🐍 ☁️ - 高级校对和内容质量增强工具
+- [automatikstudio/proposalpilot-mcp](https://github.com/automatikstudio/proposalpilot-mcp) 🐍 ☁️ - 商业提案和 RFP 响应生成工具
+- [automatikstudio/reviewreply-mcp](https://github.com/automatikstudio/reviewreply-mcp) 🐍 ☁️ - 客户评论管理和回复生成工具
+- [automatikstudio/sitescore-mcp](https://github.com/automatikstudio/sitescore-mcp) 🐍 ☁️ - 网站分析和 SEO 评分性能优化工具
 
 ### 🤝 <a name="ai-services"></a>人工智能服务
 
@@ -200,6 +210,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [Seym0n/tiktok-mcp](https://github.com/Seym0n/tiktok-mcp) <img src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-2.svg " height="14"/> - 用于获取帖子详情和视频字幕的 TikTok 集成
 - [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) <img src="https://cdn.simpleicons.org/youtube/FF0000 " height="14"/> <sup><sup>1</sup></sup> 📇 ☁️ - 获取 YouTube 字幕
 - [mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) <img src="https://cdn.simpleicons.org/youtube/FF0000 " height="14"/> <sup><sup>2</sup></sup> 📇 ☁️ - 获取 YouTube 字幕和脚本的替代实现
+- [automatikstudio/remixpost-mcp](https://github.com/automatikstudio/remixpost-mcp) 🐍 ☁️ - 社交媒体内容重组和跨平台优化工具
 
 ### 👤 <a name="customer-data-platforms"></a>数据平台
 

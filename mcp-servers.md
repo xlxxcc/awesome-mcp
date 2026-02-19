@@ -128,6 +128,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily) <img src="https://tavily.com/favicon.ico " height="14"/> ☁️ 🐍 – Tavily AI 搜索 API
 - [kshern/mcp-tavily](https://github.com/kshern/mcp-tavily.git) ☁️ 📇 – Tavily AI 搜索 API
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) <img src="https://cdn.simpleicons.org/arxiv/B31B1B " height="14"/> ☁️ 🐍 - 搜索 ArXiv 研究论文
+- [connerlambden/bgpt-mcp](https://github.com/connerlambden/bgpt-mcp) ☁️ 🐍 - 搜索科学论文，获取从全文研究中提取的结构化实验数据，每篇论文返回25+字段，包括方法、结果、样本量和质量评分
 - [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch) 🔍📚 - 在 Google 上搜索并对任何主题进行深度研究
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) - 🐍 ☁️ MCP for LLM 用于搜索和阅读 arXiv 上的论文)
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - 🐍 ☁️ MCP 用于搜索和阅读 PubMed 中的医学/生命科学论文。

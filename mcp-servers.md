@@ -263,6 +263,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 🗄️ 🚀 - 基于 Pandoc 的 MCP 服务器，支持 Markdown、HTML、PDF、DOCX（.docx）、csv 等格式之间的无缝转换
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) 🗄️ 🚀 - 这个 MCP 服务器提供了使用 wget 下载完整网站的工具，可保留网站结构并转换链接以支持本地访问
 - [j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer) 🐍 - 基于 [SQLGlot](https://github.com/tobymao/sqlglot) 的 MCP 服务器，提供 SQL 分析、代码检查和方言转换功能
+- [COSAI-Labs/toolpipe-mcp-server](https://github.com/COSAI-Labs/make-money-30day-challenge/tree/master/products/mcp-server) 📇 ☁️ - 120+ 开发者实用工具：JSON 格式化、QR 码生成、哈希、UUID 生成、DNS 查询、正则测试、JWT 解码、SQL 格式化等。可通过 [npm](https://www.npmjs.com/package/@cosai-labs/toolpipe-mcp-server) 安装。
 
 ### 📦 <a name="virtualization"></a>虚拟化
 

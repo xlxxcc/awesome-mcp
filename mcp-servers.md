@@ -187,6 +187,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [@modelcontextprotocol/server-bluesky](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - Bluesky 实例集成，用于查询和交互
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - 与 Gmail 和 Google 日历集成。
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - 与 Twitter 搜索和时间线进行交互
+- [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper) 📇 ☁️ - X/Twitter 数据平台的远程 MCP 服务，支持推文搜索、用户查询、主页推文、粉丝导出、媒体下载、监控、webhook 和确认后的写入操作。
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️ - MCP 服务器 Tools 应用程序，用于向企业微信群机器人发送各种类型的消息。
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) - 🌐 ☁️ - Nostr MCP 服务器，支持与 Nostr 交互，可发布笔记等功能。
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 这是一个与 VRChat API 交互的 MCP 服务器。您可以获取 VRChat 的好友、世界、化身等信息。

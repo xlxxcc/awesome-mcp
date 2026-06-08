@@ -306,6 +306,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> 🐍 ☁️ - Coinmarket API 集成以获取加密货币列表和报价
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - Alpha Vantage API 集成，用于获取股票和加密货币信息
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - Tastyworks API 集成，用于管理 Tastytrade 平台的交易活动
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) ☁️ - 基于 x402 微支付验证的 Solana AI 智能体钱包信任评分，提供 MCP 零安装集成用于智能体身份核验和支付就绪检查。配置: `{"url":"https://intel.twzrd.xyz/mcp"}`
 
 ### 🧠 <a name="knowledge--memory"></a>知识与记忆
 

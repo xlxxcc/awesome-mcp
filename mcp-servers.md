@@ -330,6 +330,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 用于创建和编辑营销内容、处理网页元数据、产品定位和编辑指南的工具。
 
+- [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) ☁️ - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers site analysis, keyword research, meta tags, schema markup, ad audits, and more (~2.9k stars).
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) <img src="https://openstrategypartners.com/fileadmin/Bilder/logo/OSP_logo_colors_green1.png" height="14"/> 🐍 🏠 - Open Strategy Partners 提供的营销工具套件，包含写作风格指南、编辑规范和产品营销价值图谱创建工具
 
 ### 📈 <a name="monitoring"></a>监测

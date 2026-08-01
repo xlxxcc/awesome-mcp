@@ -114,6 +114,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [tanigami/mcp-server-perplexity](https://github.com/tanigami/mcp-server-perplexity) <img src="https://cdn.simpleicons.org/perplexity " height="14"/> 🐍 ☁️ - 与 Perplexity API 交互。
 - [evalstate/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) <img src="https://huggingface.co/favicon.ico " height="14"/> 📇 ☁️ - 直接从 Claude 使用 HuggingFace Spaces。使用开源图像生成、聊天、视觉任务等。支持图像、音频和文本上传/下载。
 - [apinetwork/piapi-mcp-server](https://github.com/apinetwork/piapi-mcp-server) <img src="https://piapi.ai/piapi_favicon.webp " height="14"> 📇 ☁️ PiAPI MCP 服务器使用户能够直接从 Claude 或其他 MCP 兼容应用程序中使用 Midjourney/Flux/Kling/Hunyuan/Udio/Trellis 生成媒体内容。
+- [runapi-ai/mcp](https://github.com/runapi-ai/mcp) 📇 ☁️ - RunAPI MCP 服务器，使 Claude 等 MCP 客户端可以创建图像、视频、音乐/音频和其他模型 API 任务。
 
 ### 🔎 <a name="search"></a>搜索
 

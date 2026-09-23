@@ -342,6 +342,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🎖️ 🐍 🏠 ☁️ - 在 Grafana 实例中搜索仪表盘、调查事件并查询数据源
 
 ### 📊 <a name="数据可视化"></a>数据可视化
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: https://statsnet.co/mcp ☁️
 
 用于创建和管理数据可视化的工具。支持生成图表、图形及其他数据的视觉表现形式。
 

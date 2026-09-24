@@ -381,6 +381,8 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>其他工具和集成
 
+- [API.market MCP Gateway](https://api.market/api/mcp/gateway) ☁️ - 托管的 Streamable HTTP MCP 网关，支持 OAuth（推荐）和 API 密钥认证；五个工具覆盖 API 发现、操作模式查询、调用、用量查询及订阅管理。服务端为专有托管服务，各 API 的免费额度和付费方案不同。
+
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 使用超过 3,000 个预构建的云工具（称为 Actors）从网站、电商、社交媒体、搜索引擎、地图等提取数据。
 - [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp) 📇 🏠 - 更新、创建、删除 Contentful Space 中的内容、内容模型和资产
 - [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) 📇 ☁️ - 与 OpenAI 最智能的模型聊天

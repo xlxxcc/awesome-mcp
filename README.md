@@ -97,6 +97,7 @@
   - 自动生成配置
   - 简便的服务器管理
 - [Remote MCP](https://github.com/ssut/Remote-MCP) - 远程 MCP 通信的解决方案，可实现模型上下文的集中化管理
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ## 提示和技巧
 

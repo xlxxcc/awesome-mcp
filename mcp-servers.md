@@ -302,6 +302,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 - [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) <img src="https://cdn.simpleicons.org/stripe" height="14"/> <sup><sup>⭐</sup></sup> - 支持与 Stripe API 进行集成
 - [zebedeeio/zbd-mcp-server](https://github.com/zebedeeio/zbd-mcp-server) <img src="https://zbd.gg/favicon.ico" height="14"/> <sup><sup>⭐</sup></sup> - 通过 ZBD 的支付处理 API 进行交互，支持使用比特币和闪电网络进行即时全球支付
+- [nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node) 📇 🏠 ☁️ 🍎 - 本地 stdio MCP 支付运行时，用于检查 x402 报价、准备有界支付及查询状态和收据；仅支持 Apple Silicon macOS 和 Node 24。
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - 使用 CoinCap 的公共 API 集成实时加密货币市场数据，无需 API 密钥即可访问加密货币价格和市场信息
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> 🐍 ☁️ - Coinmarket API 集成以获取加密货币列表和报价
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - Alpha Vantage API 集成，用于获取股票和加密货币信息

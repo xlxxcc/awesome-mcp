@@ -258,6 +258,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) 🐍 🏠 - 面向行的文本文件编辑器。针对 LLM 工具进行了优化，具有高效的部分文件访问功能，可最大限度地减少令牌使用量。
 - [@joshuarileydev/simulator-mcp-server](https://github.com/JoshuaRileyDev/simulator-mcp-server) 📇 🏠 - 用于控制 iOS 模拟器的 MCP 服务器
 - [@joshuarileydev/app-store-connect-mcp-server](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server) 📇 🏠 - 一个 MCP 服务器，用于与 iOS 开发者的 App Store Connect API 进行通信
+- [vostride/agent-qa](https://github.com/vostride/agent-qa) 📇 🏠 - 通过 CLI/MCP 测试 Web、Android 和 iOS 应用，结合 memidex 持久记忆、验证式自我改进与可复核运行证据。[官网](https://vostride.com)
 - [@sammcj/mcp-package-version](https://github.com/sammcj/mcp-package-version) 📦 🏠 - MCP 服务器可帮助 LLM 在编写代码时建议最新的稳定软件包版本。
 - [delano/postman-mcp-server](https://github.com/delano/postman-mcp-server) <img src="https://cdn.simpleicons.org/postman " height="14" /> 📇 ☁️ - 与 [Postman API](https://www.postman.com/postman/postman-public-workspace/) 进行交互
 - [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 🗄️ 🚀 - 基于 Pandoc 的 MCP 服务器，支持 Markdown、HTML、PDF、DOCX（.docx）、csv 等格式之间的无缝转换
